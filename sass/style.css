@@ -1,0 +1,36 @@
+body {
+    font-family: "Nunito", sans-serif;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+.mt-30 {
+    margin-top: 30px;
+}
+
+.text-12 {
+    font-size: 0.75rem;
+}
+
+.text-14 {
+    font-size: 0.875rem;
+}
+
+.text-36 {
+    font-size: 2.2rem;
+}
+
+
+.text-60 {
+    font-size: 3.75rem;
+}
+
+.p-6 {
+    padding: .75rem !important;
+}
+
+.h-6 {
+    height: 6rem;
+}
